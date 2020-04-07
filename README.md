@@ -65,3 +65,5 @@ task&utm_source=distribute.pc_relevant.none-task
 https://blog.csdn.net/TheDayIn_CSDN/article/details/91411075
 
 https://blog.csdn.net/pc9803/article/details/100055213  tensorflow to caffe
+
+https://blog.csdn.net/john_bh/article/details/104492555?depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-23&utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-23     pfld论文翻译
